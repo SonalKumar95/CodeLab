@@ -5,3 +5,5 @@ The major contributions of the paper are:
     i. Designing a Blockchain-based three-layer architecture for smart forest fire detection system which establishes a trusted decentralized environment during data communication.
     ii. Detecting Sybil nodes in the network to provide end-to-end security for data sharing and communication.
     iii. A novel energy-efficient and IoT compatible consensus algorithm to validate the blocks of the blockchain nodes belonging to the fog layer of the proposed architecture.
+#Cite US
+Datta, S., Kumar, S., Sinha, D. and Das, A.K., 2022. BSSFFS: Blockchain-based sybil-secured smart forest fire surveillance. Journal of Ambient Intelligence and Humanized Computing, 13(5), pp.2479-2510.
